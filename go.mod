@@ -3,5 +3,5 @@ module your-module-name
 go 1.20
 
 require (
-	github.com/gin-gonic/gin v1.7.4
+	github.com/gin-gonic/gin v1.8.0
 )
