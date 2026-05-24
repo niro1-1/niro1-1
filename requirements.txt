@@ -1,7 +1,5 @@
-# Requirements
-
-- numpy
-- pandas
-- matplotlib
-- scikit-learn
-- tensorflow
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow==2.14.0
