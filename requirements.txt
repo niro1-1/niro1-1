@@ -1,4 +1,2 @@
-# Requirements
-
 - package1==1.0.0
-- package2==2.0.0
+- package2==2.0.1
