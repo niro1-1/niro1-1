@@ -1,2 +1,1 @@
-python
-django
+django==latest_version
