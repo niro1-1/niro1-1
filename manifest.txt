@@ -1,0 +1,1 @@
+Acknowledged dependencies: express, react, react-dom.
